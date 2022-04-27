@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Hi, I’m @markdchandler
+👀 I’m interested in kart racing.
+🌱 I’m currently learning kart racing (and OPC-UA).
+💞️ I’m looking to collaborate on kart racing.
+📫 How to reach me - go to the race track.
+
 <!--
 **schaabjc/schaabjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
